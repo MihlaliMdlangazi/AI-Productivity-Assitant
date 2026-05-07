@@ -1,8 +1,8 @@
 # AI-Powered Workplace Productivity Assistant
 
 An AI assistant that helps automate everyday workplace tasks like writing emails, planning tasks, and answering questions.
-##Lide demo
-https://id-preview--e5daa2f4-7d60-4a0a-be16-1170f55dfe28.lovable.app
+
+
 ---
 
 ## Features
@@ -21,6 +21,8 @@ https://id-preview--e5daa2f4-7d60-4a0a-be16-1170f55dfe28.lovable.app
 3. Enter your details and click **Generate**
 4. Review and use the output
 
+## Live Demo
+[Click here to vieew the App](https://id-preview--e5daa2f4-7d60-4a0a-be16-1170f55dfe28.lovable.app)
 ---
 
 **Author:** Mihlali Mdlangazi
