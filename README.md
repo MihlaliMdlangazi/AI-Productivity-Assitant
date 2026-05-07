@@ -22,7 +22,7 @@ An AI assistant that helps automate everyday workplace tasks like writing emails
 4. Review and use the output
 
 ## Live Demo
-[Click here to vieew the App](https://id-preview--e5daa2f4-7d60-4a0a-be16-1170f55dfe28.lovable.app)
+[Click here to vieew the App](https://mihlali-ai-assistant-app.lovable.app)
 ---
 
 **Author:** Mihlali Mdlangazi
